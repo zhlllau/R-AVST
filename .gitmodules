@@ -1,0 +1,3 @@
+[submodule "AVST-Zero-Omni/SFT/ms-swift"]
+	path = AVST-Zero-Omni/SFT/ms-swift
+	url = https://github.com/modelscope/ms-swift.git
