@@ -5,13 +5,13 @@ import pandas as pd
 from tqdm import tqdm
 import time
 
-sys.path.append("/hdd0/zl/VideoChat-R1-AVQA-Audio/src/open_r1")
+sys.path.append("./src/open_r1")
 
 from my_qwen_utils_fps025 import fetch_video
 
-csv_path = "/hdd0/zl/Grounded-SAM-2/1.CaptionAnalysis/train_final_subject_caption_analysis.csv"
-video_dir = "/hdd0/zl/Grounded-SAM-2/2.Videos"
-output_dir = "/hdd0/zl/VideoChat-R1-AVQA-Audio/VideoNPY_1_FPS/train"
+csv_path = "./train_final_subject_caption_analysis.csv"
+video_dir = "Videos"
+output_dir = "train"
 os.makedirs(output_dir, exist_ok=True)
 
 df = pd.read_csv(csv_path)
