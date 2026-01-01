@@ -1,6 +1,3 @@
-# R-AVST
-R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios
-
 <h2 align="center"> <a href="https://arxiv.org/abs/2511.16901">R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios</a></h2>
 
 <h4 align="center"> Lu Zhu, Tiantian Geng, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng </h3>
