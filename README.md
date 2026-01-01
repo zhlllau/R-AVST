@@ -24,7 +24,7 @@ TODO
 - Aiming to systematically evaluate models’ spatiotemporal reasoning capabilities and to align more closely with human retrieval demands in complex audio-visual contexts, we introduce three specialized tasks: AudioVisual Temporal, Spatial, and Spatio-Temporal Reasoning, alongside automatically constructed QAs based on LLM-generated labels.
 - We construct AVST-Zero, a Video-LLM fine-tuned in fully GRPO, trained on R-AVST to enhance its performance on audio-visual spatio-temporal reasoning tasks. Experimental results demonstrate that AVST-Zero achieves competitive performance across all three core tasks, validating its effectiveness.
 <div align="center">
-    <img src="fig1.jpg" width="800"/>
+    <img src="fig1.png" width="800"/>
     <br/>
     <figcaption></figcaption>
 </div>
