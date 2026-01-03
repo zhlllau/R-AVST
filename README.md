@@ -5,7 +5,7 @@
 <h5 align="center"> If our project helps you, please give us a star 🌟 and cite our <a href="#Citation">paper</a>!</h2>
 
 
-[[🌐 Project Page](https://github.com/zhlllau/R-AVST/)] [[📖 Paper](https://arxiv.org/abs/2511.16901)] [[🤗 R-AVST Dataset (Hugging face)](https://huggingface.co/datasets/)]
+[[🌐 Project Page](https://github.com/zhlllau/R-AVST/)] [[📖 Paper](https://arxiv.org/abs/2511.16901)] [[🤗 R-AVST Dataset (Hugging face)](https://huggingface.co/datasets/Lu222/R-AVST)]
 
 ## 🔥 News
 - 2025-11-21. We release the paper. Welcome to follow.
