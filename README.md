@@ -54,7 +54,7 @@ If you want to train the AVST-Zero-Omni model by youself, please refer to [AVST-
 
 ## Acknowledgement
 We are grateful for the following awesome projects: 
-[UnAV-100](https://unav100.github.io/)
+[UnAV-100](https://unav100.github.io/), 
 [Videochat-R1](https://github.com/OpenGVLab/VideoChat-R1)
   
 
