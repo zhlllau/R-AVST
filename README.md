@@ -38,14 +38,11 @@ pip install flash-attn --no-build-isolation
 ### Annotation files of training and evaluation sets
 | Split           | Download | # Videos | # QAs | 
 |-----------------|----------|-----------------|-----------|
-|Training set | [🤗 link](https://huggingface.co/datasets/)| 4,171 | 6,533 | 
-|Evaluation set | [🤗 link](https://huggingface.co/datasets/)| 1,066 |1,633 | 
+|Training set | [🤗 link](https://huggingface.co/datasets/Lu222/R-AVST/raw/main/xml_train_QA.json)| 4,171 | 6,533 | 
+|Evaluation set | [🤗 link](https://huggingface.co/datasets/Lu222/R-AVST/raw/main/xml_test_QA.json)| 1,066 |1,633 | 
 
 
-**[Note]** The json files include the information of video id (YouTube id).
-
-### R-AVST-based dialogue data for AVST-Zero training 
-[Coming soon]
+**[Note]** The json files include the information of video_name (YouTube id), duration, annotation (event_num, reasoning QAs).
 
 ## Evaluation
 [Coming soon] For evaluation instruction, please refer to [eval.md](AVST-Zero/eval/eval.md)
