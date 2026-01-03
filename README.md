@@ -28,7 +28,7 @@ We recommend setting up a conda environment for the project:
 ```shell
 conda create --name=ravst python=3.10
 conda activate ravst
-pip install torch==2.6.0 torchvision==2.6.0 torchaudio==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
 pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ```
