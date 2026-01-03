@@ -45,10 +45,11 @@ pip install flash-attn --no-build-isolation
 **[Note]** The json files include the information of video_name (YouTube id), duration, annotation (event_num, reasoning QAs).
 
 ## Evaluation
-[Coming soon] For evaluation instruction, please refer to [eval.md](AVST-Zero/eval/eval.md)
+[coming soon] For evaluation instruction, please refer to [eval](AVST-Zero/eval/eval.md)
 
 ## Training
-[Coming soon] If you want to train the model by youself, please refer to [train.md](AVST-Zero/train/train.md) for training instructions. 
+If you want to train the AVST-Zero model by youself, please refer to [AVST-Zero/training_scripts](R-AVST/tree/main/AVST-Zero/training_scripts) for training instructions. 
+If you want to train the AVST-Zero-Omni model by youself, please refer to [AVST-Zero-Omni/GRPO/src/scripts](R-AVST/tree/main/AVST-Zero-Omni/GRPO/src/scripts) for training instructions. 
 
 
 ## Acknowledgement
