@@ -42,7 +42,7 @@ pip install flash-attn --no-build-isolation
 |Evaluation set | [🤗 link](https://huggingface.co/datasets/Lu222/R-AVST/raw/main/xml_test_QA.json)| 1,066 |1,633 | 
 
 
-**[Note]** The json files include the information of video_name (YouTube id), duration, annotation (event_num, reasoning QAs).
+**[Note]** The JSON files include the information of video_name (YouTube ID), duration, and annotations (event_num, reasoning QAs). The corresponding videos are sourced from the UnAV-100 dataset (https://unav100.github.io/). To obtain the videos, please download the original video collection from the official UnAV-100 release and use the provided video_name (YouTube ID) together with the temporal information (e.g., start/end timestamps) to locate the corresponding video clips.
 
 ## Evaluation
 [coming soon] For evaluation instruction, please refer to [eval](AVST-Zero/eval/eval.md)
