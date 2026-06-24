@@ -45,7 +45,7 @@ pip install flash-attn --no-build-isolation
 **[Note]** The JSON files include the information of video_name (YouTube ID), duration, and annotations (event_num, reasoning QAs). The corresponding videos are sourced from the UnAV-100 dataset (https://unav100.github.io/). To obtain the videos, please download the original video collection from the official UnAV-100 release and use the provided video_name (YouTube ID) together with the temporal information (e.g., start/end timestamps) to locate the corresponding video clips.
 
 ## Evaluation
-[coming soon] For evaluation instruction, please refer to [eval](AVST-Zero/eval/eval.md)
+For evaluation instruction, please refer to [eval](AVST-Zero/eval/eval.md)
 
 ## Training
 If you want to train the AVST-Zero model by youself, please refer to [AVST-Zero/training_scripts](R-AVST/tree/main/AVST-Zero/training_scripts) for training instructions. 
